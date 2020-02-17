@@ -1,7 +1,7 @@
 import React from 'react';
 import Todoitem from './Todoitem';
 import todoData from "./todoData";
-import styles from "./style.css";
+import style from "./style.css";
 
 
 
