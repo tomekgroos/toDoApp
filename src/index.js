@@ -2,6 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 /*import App from "./App";*/
 /*import LogInLogOut from "./practiceState/logInLogOut"*/
-import FormInput from "./Forms/FormInput"
+import ComponentForms from "./Forms/ComponentForms"
 
-ReactDOM.render(<FormInput />, document.getElementById('root'));
+ReactDOM.render(<ComponentForms />, document.getElementById('root'));
